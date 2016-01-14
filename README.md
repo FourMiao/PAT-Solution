@@ -1,4 +1,4 @@
 # PAT-Solution
 Solutions of PAT
 
-For details, please refer to my [blog](http://blog.fourmiao.com "fourmiao").
+For details, please refer to my [blog](http://blog.fourmiao.com "fourmiao"){:target="_blank"}.
